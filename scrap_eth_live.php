@@ -1,5 +1,5 @@
 <?php
-    
+    // SATZ & co
     /**
      * Get a web file (HTML, XHTML, XML, image, etc.) from a URL.  Return an
      * array containing the HTTP server response header fields and content.
